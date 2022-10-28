@@ -1,5 +1,5 @@
 import React from "react";
-import Subtopic from "./Subtopic";
+
 
 function Portfolio (){
 return(
