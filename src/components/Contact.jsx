@@ -2,9 +2,9 @@ import React from "react";
 
 function Contact(){
     return(
-        <div className="about"> 
+        <div className="contact"> 
             <h2>Contact Me:</h2>
-            <h4>I am always available for any Graphics design of your choice. Contact me on any of my socials:</h4>
+            <h4>I am always available for any Graphics design of your choice. Contact me by clicking on any of the social icons below:</h4>
             <div className="contact-icon">
             <a className="contact-icon" href="mailto:belloramadan53@gmail.com"><i class="fa-solid fa-envelope fa-2x"></i></a>
             <a className="contact-icon" href="http://instagram.com/bello_gaucho_10"><i class="fa-brands fa-instagram fa-2x"></i></a>

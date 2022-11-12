@@ -17,6 +17,10 @@ h2{
 nav{
     background-color: #000;
 }
+.anchor{
+    color: green;
+    text-decoration: none;
+}
 
 .logo-img{
     height: 50px;
@@ -34,8 +38,7 @@ footer{
     background-image:url("images/webdevelopment-bg.jpg") ;
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed; 
-    
+    background-position: center;
 }
 .landing-content{
     padding: 250px 100px;
@@ -91,7 +94,7 @@ footer{
     padding: 20px 15px;
     background-color: #ffffff;
     margin: auto;
-    height: 200px;
+    height: 250px;
     box-shadow: 0 2px 5px #ccc;
     text-align: center;
 }
@@ -110,11 +113,14 @@ footer{
     border-radius: 50%;
 }
 .about{
-    padding:70px;
+    padding: 100px 70px;
 }
 .contact-icon{
     text-decoration: none;
     text-align: center;
     margin: 5px;
     padding: 5px;
+}
+.contact{
+    padding:250px 70px;
 }

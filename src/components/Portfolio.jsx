@@ -37,6 +37,7 @@ return(
             <img className="port-img" src="images/XR44.jpg" alt="img" />
             <img className="port-img" src="images/uefa.jpg" alt="img" />
             <img className="port-img" src="images/bring.jpg" alt="img" />
+            <img className="port-img" src="images/barber.jpeg" alt="img" />
         </div>
         
     
