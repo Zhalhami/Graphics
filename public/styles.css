@@ -124,3 +124,10 @@ footer{
 .contact{
     padding:250px 70px;
 }
+
+@media (max-width:1028px) {
+    .landing-content{
+        text-align: center;
+    }
+    
+}
